@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "The man who's been the rock of Khajuraho!!!"
-datePublished: '2015-12-21T18:57:38.305Z'
-dateModified: '2015-12-21T18:57:16.674Z'
+datePublished: '2015-12-21T19:26:09.975Z'
+dateModified: '2015-12-21T19:01:16.706Z'
 title: The Khajuraho Man
 author: []
+sourcePath: _posts/2015-12-21-the-khajuraho-man.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-21-the-khajuraho-man.md
-published: true
 url: the-khajuraho-man/index.html
 _type: Article
 
