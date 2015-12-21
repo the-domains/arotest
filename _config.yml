@@ -1,7 +1,7 @@
 name: arotest
 favicon: null
-layout_spectrum: 0.7787550722714514
-typography_spectrum: 0.24518612283281982
+layout_spectrum: 0.10764
+typography_spectrum: 0.10851
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.35880780941806734
+    - '#1a1a1a'
+    - '#151515'
+    - '#000000'
+    - '#111111'
+    - '#0e0e0e'
+  brandStrength: 1
   lightness: 0.33243915322236717
   saturation: 0.5564964476507157
   rhythmicContrast: 0.7985912461299449
